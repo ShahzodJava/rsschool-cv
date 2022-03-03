@@ -28,6 +28,8 @@
   - Mohirdev.uz:
     - Python basic (Finished)
     - Algorithms and Data Structures (In process)
+
+
 ## Code examples
   **Binary Search**
 ```bash

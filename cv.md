@@ -12,6 +12,7 @@
   - Python (Flask, Restfull API, kubernetes, heroku)
   - Git & GitHub
   - JavaScript (Basic)
+  - Java (Basic)
 ## Education
 ### Cources
   - Udacity.com
@@ -28,6 +29,7 @@
     - Python basic (Finished)
     - Algorithms and Data Structures (In process)
 ## Code examples
+  **Binary Search**
 ```
 def binary_search(my_list, number):
   first = 0
@@ -51,6 +53,6 @@ print(binary_search(my_list,number))
 
 ## Languages
 
-  - Uzbek
+  - Uzbek(native speaker)
   - Russian(pre intermediate)
   - English(pre intermediate)

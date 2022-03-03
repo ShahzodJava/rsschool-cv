@@ -30,7 +30,7 @@
     - Algorithms and Data Structures (In process)
 ## Code examples
   **Binary Search**
-```
+```bash
 def binary_search(my_list, number):
   first = 0
   last = len(my_list) - 1

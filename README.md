@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ShahzodJava.github.io/rsschool-cv/cv

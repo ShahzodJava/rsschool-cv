@@ -1,1 +1,1 @@
-https://GITHUB-ShahzodJava.github.io/rsschool-cv/cv
+https://ShahzodJava.github.io/rsschool-cv/cv
